@@ -1,0 +1,17 @@
+Author: Daniel Boles
+CruzID: dawboles
+Project: pa4
+Class: cs101
+Time Spent: 14hrs
+Collaboration: None
+
+Files for submission:
+
+README
+Makefile
+List.c 
+List.h 
+Graph.c 
+Graph.h 
+GraphTest.c 
+FindPath.c

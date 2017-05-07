@@ -1,0 +1,22 @@
+Author: Daniel Boles
+CruzID: dawboles
+Project: pa5
+Class: cs101
+Time Spent: 14hrs
+Collaboration: None
+
+Files for submission:
+
+README
+Makefile
+List.c 
+List.h 
+Graph.c 
+Graph.h 
+GraphTest.c 
+FindComponents.c
+
+NOTE: I was unable to complete some part of Graph.c which lead to this not working.
+This however was working mostly in1 but not GraphClient. I isolated one of my 
+problem to the function copyGraph. Currently both FindComponent and GraphClient do not 
+work completely. Please grade what segments work. Thank you.
