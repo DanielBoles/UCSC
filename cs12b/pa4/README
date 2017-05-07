@@ -1,0 +1,17 @@
+Author: Daniel Boles
+CruzID: dawboles
+Project: pa4
+Class: 12b
+Time Spent: 19hrs
+Collaboration: None
+
+Source Files for submission:
+
+README
+Makefile
+Simulation.java 
+QueueInterface.java
+QueueEmptyException.java 
+Queue.java
+QueueTest.java
+Job.java

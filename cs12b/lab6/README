@@ -1,0 +1,16 @@
+Author: Daniel Boles
+CruzID: dawboles
+Project: lab6
+Class: 12m
+Time Spent: 2hrs
+Collaboration: None
+
+Source Files for submission:
+
+README
+Makefile
+List.java 
+ListTest.java  
+ListInterface.java 
+ListIndexOutOfBoundsException.java 
+ListClient.java  

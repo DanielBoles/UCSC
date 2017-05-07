@@ -1,0 +1,17 @@
+Author: Daniel Boles
+CruzID: dawboles
+Project: Lab7
+Class: 12m
+Time Spent: 7hrs
+Collaboration: None
+
+Source Files for submission:
+
+README
+Makefile
+Dictionary.java
+DictionaryClient.java
+DictionaryInterface.java
+DictionaryTest.java
+DuplicateKeyException.java
+KeyNotFoundException.java
